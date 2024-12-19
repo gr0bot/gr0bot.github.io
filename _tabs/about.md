@@ -11,4 +11,4 @@ When I’m not chasing vulnerabilities, I’m usually chasing Kyubi, my Shiba In
 
 See you around!
 
-![kyubi0](/assets/img/kyubi0.jpeg)
+<img src="/assets/img/kyubi0.jpeg" alt="kyubi0" width="600" />
