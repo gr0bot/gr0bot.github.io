@@ -16,7 +16,7 @@ timezone:
 
 title: gr0bot # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Breaking systems to build knowledge. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Breaking systems to build knowledge.
@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: github_username # change to your GitHub username
+  username: gr0bot # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: gr0bot # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,8 +38,8 @@ social:
   email: gr0bot@protonmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #- https://twitter.com/username # change to your Twitter homepage
-    #- https://github.com/username # change to your GitHub homepage
+    - https://x.com/gr0bot # change to your Twitter homepage
+    - https://github.com/gr0bot # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
