@@ -6,7 +6,7 @@ categories: [Write-ups]
 tags: [web]
 ---
 
-<img src="/assets/screenshots/cicada/cicada0.png" alt="cicada0" style="width: 50%; height: auto;" />
+<img src="/assets/screenshots/cicada/cicada0.png" alt="cicada0" style="width: 75%; height: auto;" />
 
 # Network Enumeration
 ## TCP Scans
