@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "HTB - Cicada"
+description: "Short summary of the post."
 date: 2024-12-19
 categories: [Write-ups]
 tags: [web]
