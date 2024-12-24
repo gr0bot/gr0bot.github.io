@@ -10,10 +10,7 @@ image:
   alt: cicada0
 ---
 
-<img src="/assets/screenshots/cicada/cicada0.png" alt="cicada0" style="width: 75%; height: auto;" />
-
-# Network Enumeration
-## TCP Scans
+## Portscan
 <img src="/assets/screenshots/cicada/cicada1.png" alt="cicada1" width="600" />
 >[!info] Observations :
 > - It is a Windows machine.
