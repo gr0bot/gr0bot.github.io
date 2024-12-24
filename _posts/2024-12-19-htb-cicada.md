@@ -5,6 +5,9 @@ description: "Short summary of the post."
 date: 2024-12-19
 categories: [Write-ups]
 tags: [web]
+image:
+  path: /assets/screenshots/cicada/cicada0.png
+  alt: cicada0
 ---
 
 <img src="/assets/screenshots/cicada/cicada0.png" alt="cicada0" style="width: 75%; height: auto;" />
