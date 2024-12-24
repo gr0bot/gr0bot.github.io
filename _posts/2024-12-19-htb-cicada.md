@@ -2,6 +2,8 @@
 title: "HTB - Cicada"
 layout: "post"
 date: 2024-12-19
+header:
+  teaser: /assets/screenshots/cicada/cicada0.png
 categories: [Write-ups]
 tags: [web]
 ---
